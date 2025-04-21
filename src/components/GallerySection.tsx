@@ -2,31 +2,31 @@
 const GallerySection = () => {
   const images = [
     {
-      src: "/lovable-uploads/fe721c63-d4a9-4148-bc7c-329ec063d006.png",
+      src: "/seven-lounge-glow/lovable-uploads/fe721c63-d4a9-4148-bc7c-329ec063d006.png",
       alt: "Restaurant 7SEVEN LOUNGE"
     },
     {
-      src: "/lovable-uploads/burger coca.jpg",
+      src: "/seven-lounge-glow/lovable-uploads/burger coca.jpg",
       alt: "Burger et Coca"
     },
     {
-      src: "/lovable-uploads/burger.jpg",
+      src: "/seven-lounge-glow/lovable-uploads/burger.jpg",
       alt: "Burger"
     },
     {
-      src: "/lovable-uploads/nems.jpg",
+      src: "/seven-lounge-glow/lovable-uploads/nems.jpg",
       alt: "Nems"
     },
     {
-      src: "/lovable-uploads/2f6a8043-6a27-499f-a968-27dc7cfabf28.png",
+      src: "/seven-lounge-glow/lovable-uploads/2f6a8043-6a27-499f-a968-27dc7cfabf28.png",
       alt: "Repas"
     },
     {
-      src: "/lovable-uploads/dac13031-10bd-4687-b6a3-3d9a26ba4380.png",
+      src: "/seven-lounge-glow/lovable-uploads/dac13031-10bd-4687-b6a3-3d9a26ba4380.png",
       alt: "Repas"
     },
     {
-      src: "/lovable-uploads/05058f9f-079a-439e-a1d4-b78ad989571e.png",
+      src: "/seven-lounge-glow/lovable-uploads/05058f9f-079a-439e-a1d4-b78ad989571e.png",
       alt: "Salade fraîche du 7SEVEN LOUNGE"
     }
   ];

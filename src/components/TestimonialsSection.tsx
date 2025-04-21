@@ -16,28 +16,28 @@ const TestimonialsSection = () => {
       name: "Robert Schenini",
       rating: 5,
       comment: "Le burger royal est très bon, je recommande. Petit restaurant de quartier cozy comme on les aime. Bonne découverte pour ma part j'y retournerai avec plaisir 👍",
-      image: "/lovable-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
+      image: "/seven-lounge-glow/lovable-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
     },
     {
       id: 2,
       name: "Barbara VISEUR",
       rating: 5,
       comment: "Service et nourriture irréprochable, les employés ainsi que le patron sont très à l'écoute du client. Je suis venu assez tard pour manger et la cuisine était encore ouverte à cette heure! Je recommande les yeux fermés !",
-      image: "/lovable-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
+      image: "/seven-lounge-glow/-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
     },
     {
       id: 3,
       name: "Mohamed Abarouch",
       rating: 5,
       comment: "Bonne ambiance et une excellente chicha, je recommande 👍👍",
-      image: "/lovable-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
+      image: "/seven-lounge-glow/lovable-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
     },
     {
       id: 4,
       name: "Ali Laakrout",
       rating: 5,
       comment: "La réouverture fait le plus grand bien à cette ville de Reims, des plats succulents et une équipe au top merci à vous",
-      image: "/lovable-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
+      image: "/seven-lounge-glow/lovable-uploads/f4f28e2c-1f3a-4792-bf2f-d065cedf47df.png",
     },
   ];
 
